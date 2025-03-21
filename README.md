@@ -26,10 +26,15 @@ Ensure you have explicit permission before testing any system.
 
 ## 📜NOTE :  
 1) Briefly Describe The Theory of FUD Payloads , How Hackers inject Payloads in PDF.  
-2) How They Deliver & Target Victims , Bypassing Security Measures and How To Stay Safe !  
-3) Must Read The Article.  
-4) Try to understand the wide concepts of how things works.  
-5) Covering the concepts of RATs , 1-Click & 0-DAy Exploits.  
+2) How They Deliver & Target Victims , Bypassing Security Measures and How To Stay Safe !
+3) The are made for kali linux.
+4) Before Running Script Must see `requirements.txt` file .
+5) The Script may not work but the articles and concepts do.  
+6) Try to understand the wide concepts of how things works.  
+7) Covering the concepts of RATs , 1-Click & 0-DAy Exploits.  
+8) Before Running Scripts Must Read The Article First.  
+9) To Run Script and Learn use Command in Linux `python3 scriptname.py` .  
+10) U must know about port forwording and networking to make things smoothly.  
 
 ## 🚀HELPFULL ?  
 - if its helpfull or u use this series stuff anywhere else , consider giving credits !  
