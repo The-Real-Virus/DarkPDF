@@ -27,7 +27,7 @@ Ensure you have explicit permission before testing any system.
 ## 📜NOTE :  
 1) Briefly Describe The Theory of FUD Payloads , How Hackers inject Payloads in PDF.  
 2) How They Deliver & Target Victims , Bypassing Security Measures and How To Stay Safe !
-3) The are made for kali linux.
+3) The scripts are made for kali linux.
 4) Before Running Script Must see `requirements.txt` file .
 5) The Script may not work but the articles and concepts do.  
 6) Try to understand the wide concepts of how things works.  
