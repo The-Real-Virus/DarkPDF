@@ -1,0 +1,5 @@
+sudo apt install python3-pypdf
+sudo apt install python3-pycryptodome
+sudo apt install qpdf -y
+sudo apt install pdftk -y
+sudo apt install pdfid pdf-parser -y
